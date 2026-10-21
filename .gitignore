@@ -1,0 +1,5 @@
+*.csv
+!resultados_modelos.csv
+*.joblib
+__pycache__/
+.ipynb_checkpoints/

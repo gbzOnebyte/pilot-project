@@ -1,0 +1,6 @@
+Modelo,Exactitud,Precisión,Recall,F1,F1 validación cruzada (media ± desv.)
+Naive Bayes,0.9984,1.0000,0.9968,0.9984,0.998 ± 0.002
+Regresión Logística,0.9968,1.0000,0.9936,0.9968,0.996 ± 0.002
+Random Forest,0.9888,0.9842,0.9936,0.9889,0.992 ± 0.003
+Solo reglas (umbral 3),0.7748,0.9943,0.5527,0.7105,n/a
+Híbrido (Naive Bayes + reglas α=0.3),0.9968,1.0000,0.9936,0.9968,n/a
